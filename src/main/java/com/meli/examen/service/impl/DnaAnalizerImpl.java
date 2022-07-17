@@ -1,11 +1,14 @@
 package com.meli.examen.service.impl;
 
+import org.springframework.stereotype.Component;
+
 import com.meli.examen.service.IDnaAnalizer;
 
 /**
  * 
  * @author Rodrigo Cruz <rodriikc@gmail.com>
  */
+@Component
 public class DnaAnalizerImpl implements IDnaAnalizer {
 
     @Override

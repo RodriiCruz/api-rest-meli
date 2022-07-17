@@ -11,5 +11,7 @@ public class Constants {
     public static final char CYTOSINE = 'C';
     public static final char THYMINE = 'T';
     public static final int AGCT_LENGTH = 4;
+    public static final String ERROR_MSG_WRONG_LENGTH = "Invalid DNA. Wrong length.";
+    public static final String ERROR_MSG_WRONG_BASE = "Invalid DNA. Wrong nitrogenous base.";
 
 }
